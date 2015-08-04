@@ -1,0 +1,11 @@
+/*This is the comment style*/
+/*
+Selector {
+	RULE1: rule_vlue;
+	RULE2: rule_vlue;
+	RULE3: rule_vlue;
+}*/
+
+h1 {
+	color: red;
+}
