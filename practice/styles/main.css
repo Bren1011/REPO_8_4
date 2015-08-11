@@ -1,0 +1,30 @@
+/*This is the comment style*/
+/*
+Selector {
+	RULE1: rule_vlue;
+	RULE2: rule_vlue;
+	RULE3: rule_vlue;
+}*/
+
+h1 {
+	color: red;
+}
+
+.fun {
+	color: green;
+}
+
+a {
+	color: red;
+}
+
+#foo{
+	color:blue;
+}
+
+p {
+	margin: 0px;
+	border: 1px solid black;
+	padding: 20px;
+}
+
