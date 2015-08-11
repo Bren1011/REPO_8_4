@@ -8,6 +8,11 @@ body{
     background-color: gray;
 }
 
+a:link { color: red } /* unvisited links */
+a:visited { color: purple } /* visited links */
+a:hover { color: white } /* user hovers */
+a:active { color: lime } /* active links */
+
 .header__Hcontainer{
 	background-color: #121212;
 	max-width: 500px;
@@ -46,7 +51,7 @@ body{
 	font-size: 1.4rem;
 	font-family: helvetica;
 	text-decoration: none;
-	text-indent: 1rem;
+	margin: 1rem;
 	}
 
 .article__Bcontainer{
